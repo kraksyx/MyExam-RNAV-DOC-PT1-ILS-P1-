@@ -111,7 +111,7 @@ const questions = [
     "correct": 1
   },
   {
-    "question": "The middle marker is usually located at a range of (1 km), with an audio frequency of (1300 Hz) and illuminates the (amber) light.\n(Statement - no multiple choice options or answer required)",
+    "question": "Accurate glide path signals cannot be guaranteed above a certain angle relative to the horizontal. That angle is:",
     "options": [
       "0.45 x the glide path angle",
       "5.25 x the glide path angle",
