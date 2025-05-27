@@ -42,10 +42,10 @@ const questions = [
   {
     "question": "The glide path signals must be received to a range of 10 nm over a sector:",
     "options": [
-      "100 each side of the localiser centre line",
-      "100 wide centred on the localiser centre line",
-      "80 each side of the localiser centre line",
-      "80 wide centred on the localiser centre line"
+      "10o each side of the localiser centre line",
+      "10o wide centred on the localiser centre line",
+      "8o each side of the localiser centre line",
+      "8o wide centred on the localiser centre line"
     ],
     "correct": 2
   },
